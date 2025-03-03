@@ -1,10 +1,9 @@
 # Hi there! 👋, I'm Seokmin Yoon!
 
 ## 🚀 About Me
-- 🎓 Undergraduate Student | Computer Science
-- 📍 **Dankook University**
-- 💡 Interested in **Network Virtualization, Load Balancing, and System Security**
-- 🌱 Currently learning **Set Theory and Formal Methods in Computer Science**
+- 🎓 **Computer Science Undergraduate** at **Dankook University**
+- 💡 Passionate about **Network Virtualization, Load Balancing, and System Security**
+- 🌱 Currently exploring **Set Theory and Formal Methods in Computer Science**
 
 ## 🛠️ Tech Stack
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
