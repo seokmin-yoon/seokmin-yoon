@@ -23,9 +23,9 @@
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 
 ## 📌 My Projects  
-🌐 **[Project 1](https://github.com/yourusername/project1)**: SDN-based Virtual Network Configuration System  
-🔐 **[Project 2](https://github.com/yourusername/project2)**: eBPF-powered Network Security Analysis  
-📊 **[Project 3](https://github.com/yourusername/project3)**: Kubernetes-based Load Balancer for Cloud Applications  
+- **[Project 1](https://github.com/yourusername/project1)**: SDN-based Virtual Network Configuration System  
+- **[Project 2](https://github.com/yourusername/project2)**: eBPF-powered Network Security Analysis  
+- **[Project 3](https://github.com/yourusername/project3)**: Kubernetes-based Load Balancer for Cloud Applications  
 
 ## 📊 GitHub Stats
 ![Seokmin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=seokminyoon&show_icons=true&theme=light)
