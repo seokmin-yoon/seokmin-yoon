@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Seokmin Yoon!
+# Hi there! 👋, I'm Seokmin Yoon!
 
 ## 🚀 About Me
 - 🎓 Undergraduate Student | Computer Science
