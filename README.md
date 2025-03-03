@@ -24,6 +24,7 @@
 
 ## 📊 GitHub Stats
 ![Seokmin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=seokminyoon&show_icons=true&theme=light)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seokminyoon&layout=compact&theme=light)
 
 ## 📫 Contact
 - ✉ Email: **your-email@example.com**
