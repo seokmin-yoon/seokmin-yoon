@@ -22,7 +22,7 @@
 ## 📌 My Projects  
 - **[Project 1](https://github.com/yourusername/project1)**: Dynamic SDN Topology Builder  
 - **[Project 2](https://github.com/yourusername/project2)**: eBPF-driven 5G Protocol Observation
-- **[Project 3](https://github.com/yourusername/project3)**: Smart visual navigation for the visually impaired
+- **[Project 3](https://github.com/yourusername/project3)**: Smart Visual Navigation for the Visually Impaired
 - **[Project 3](https://github.com/yourusername/project3)**: Encrypted Traffic Anomaly Detection using DL
 
 ## 📊 GitHub Stats
