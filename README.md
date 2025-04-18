@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 - 🎓 **Computer Science Undergraduate** at **Dankook University**
-- 💡 Passionate about **Network Virtualization, Load Balancing, and System Security**
+- 💡 Passionate about **Network Virtualization and System Security**
 - 🌱 Currently exploring **Set Theory and Formal Methods in Computer Science**
 
 ## 🛠️ Tech Stack
