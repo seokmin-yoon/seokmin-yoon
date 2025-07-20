@@ -34,4 +34,5 @@
 ## 📫 Contact
 - ✉ Email: **your-email@example.com**
 - 💼 LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/yourprofile/)
-- 📝 Blog: [Velog](https://velog.io/@seokmin-yoon/posts)
+- 📝 Velog: [Velog](https://velog.io/@seokmin-yoon/posts)
+- ✍ Medium: [Medium](https://medium.com/@ysm3221)
