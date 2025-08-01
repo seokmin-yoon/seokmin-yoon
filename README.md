@@ -22,10 +22,9 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
 ## 📌 My Projects  
-- **[Project 1](https://github.com/yourusername/project2)**: eBPF-driven 5G Protocol Observation
-- **[Project 2](https://github.com/yourusername/project1)**: ONOS-based Dynamic SDN Topology Builder  
-- **[Project 3](https://github.com/yourusername/project3)**: Visually impaired Mobility aid System
-- **[Project 4](https://github.com/yourusername/project3)**: Encrypted Traffic Anomaly Detection using DL
+- **[Project 1](https://github.com/seokmin-yoon/5G-Observ)**: eBPF-driven 5G Protocol Observation
+- **[Project 3](https://github.com/seokmin-yoon/Visual-Mobility-Aid)**: Visually impaired Mobility aid System
+- **[Project 4](https://github.com/seokmin-yoon/Encrypted-Anomaly-Detector)**: Encrypted Traffic Anomaly Detection using DL
 
 ## 📊 GitHub Stats
 ![Seokmin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=seokminyoon&show_icons=true&theme=light)
